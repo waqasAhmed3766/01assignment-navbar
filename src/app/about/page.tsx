@@ -1,4 +1,3 @@
-import { resolve } from "path"
 import Image from "next/image"
 
  async function About() {
